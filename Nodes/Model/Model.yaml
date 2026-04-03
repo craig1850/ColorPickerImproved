@@ -1,0 +1,11 @@
+Name: Model
+Type: ModelCategoryFolder
+Children:
+- Name: LastSessionStyleSheet
+  Id: g=51740bf658b8e835b31f222de3d915a5
+  Type: BaseDataVariableType
+  DataType: Int32
+- Name: SpinBoxTextColor
+  Id: g=1167228aa19ffc5a526e81a20320370c
+  Type: BaseDataVariableType
+  DataType: Color
